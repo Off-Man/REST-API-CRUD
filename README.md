@@ -1,5 +1,3 @@
-Node & MSSQL Server API
-
 nodejs and Microsoft SQL Server Datbase REST API
 
 In the .env file:
